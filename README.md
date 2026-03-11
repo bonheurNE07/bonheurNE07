@@ -9,7 +9,3 @@
 
 
 **Backend Developer** with a strong foundation in electronics and telecommunications, passionate about building reliable and scalable systems that connect software with the physical world.
-
-I’m currently deepening my expertise in networking and cybersecurity, which shape how I approach backend development — with a strong focus on performance, connectivity, and secure architectures.
-
-Alongside this, I’m exploring Artificial Intelligence and Machine Learning to understand how intelligent systems can be integrated into backend solutions and networked environments.
