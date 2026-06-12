@@ -2,10 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking%20%20-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
 ![IoT & Embedded Systems](https://img.shields.io/badge/IoT%20&%20Embedded%20Systems-FF6F00?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![AI & Machine Learning](https://img.shields.io/badge/AI%20&%20Machine%20Learning-FFB800?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E3440?style=for-the-badge&logo=shield&logoColor=white)
 
-
-**Backend Developer** with a strong foundation in electronics and telecommunications, passionate about building reliable and scalable systems that connect software with the physical world.
+**Networking Engineer & Software Developer** passionate about IoT, network infrastructure, automation, and intelligent systems. I enjoy designing and building scalable, secure, and innovative solutions that connect devices, networks, and applications to solve real-world challenges.
